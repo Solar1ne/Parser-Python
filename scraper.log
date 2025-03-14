@@ -1,0 +1,41 @@
+2025-03-09 19:18:05,022 - INFO - База данных готова к использованию.
+2025-03-09 19:18:16,377 - INFO - Используется User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2025-03-09 19:18:17,954 - INFO - Переход на главную страницу...
+2025-03-09 19:18:22,469 - WARNING - Файл cookies cookies/perekrestok_cookies.pkl не существует
+2025-03-09 19:18:22,469 - INFO - Имитация человеческого поведения...
+2025-03-09 19:18:24,991 - ERROR - Произошла общая ошибка: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79754C6A5+28789]
+	(No symbol) [0x00007FF7974B5B20]
+	(No symbol) [0x00007FF797348F9A]
+	(No symbol) [0x00007FF797334D75]
+	(No symbol) [0x00007FF797359784]
+	(No symbol) [0x00007FF7973CF0BF]
+	(No symbol) [0x00007FF7973EF0D2]
+	(No symbol) [0x00007FF7973C7103]
+	(No symbol) [0x00007FF79738FFC0]
+	(No symbol) [0x00007FF797391273]
+	GetHandleVerifier [0x00007FF797891AED+3458237]
+	GetHandleVerifier [0x00007FF7978A829C+3550316]
+	GetHandleVerifier [0x00007FF79789DB9D+3507565]
+	GetHandleVerifier [0x00007FF797612C6A+841274]
+	(No symbol) [0x00007FF7974C09EF]
+	(No symbol) [0x00007FF7974BCB34]
+	(No symbol) [0x00007FF7974BCCD6]
+	(No symbol) [0x00007FF7974AC119]
+	BaseThreadInitThunk [0x00007FFFFD0F7374+20]
+	RtlUserThreadStart [0x00007FFFFD7FCC91+33]
+
+2025-03-09 19:18:55,243 - INFO - Браузер оставлен открытым
+2025-03-09 19:18:57,262 - WARNING - Отзывы не собраны.
+2025-03-09 19:21:42,962 - INFO - База данных готова к использованию.
+2025-03-09 19:22:05,278 - ERROR - Файл  не существует
+2025-03-09 19:22:24,505 - INFO - База данных готова к использованию.
+2025-03-09 19:25:15,137 - INFO - База данных готова к использованию.
+2025-03-09 19:26:03,305 - INFO - База данных готова к использованию.
+2025-03-09 19:26:20,370 - ERROR - Файл    C:\Users\Александр\Desktop\perekrestok_reviews.html не существует
+2025-03-09 19:26:53,726 - ERROR - Файл    C:\Users\Александр\Desktop\perekrestok_reviews.html не существует
+2025-03-09 19:27:17,445 - INFO - Парсинг HTML-файла: C:\Users\Александр\Desktop\PythonGovno\perekrestok_page_1.html
+2025-03-09 19:27:17,448 - INFO - Извлечено 0 отзывов из HTML-файла
